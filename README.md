@@ -1,15 +1,18 @@
 # robot
 ### Автономный робот теле-присутствия как часть умного дома
 
+
+![v1](https://raw.githubusercontent.com/positron48/robot/master/images/IMGP2291.JPG "v1")
+
 #### Имеющаяся техническая часть:
 * гусеничная платформа rover
 * УЗ-дальномеры
+* [драйвер двигателя](http://www.aliexpress.com/item/Free-shipping-1pcs-lot-Special-promotions-2pcs-lot-L298N-motor-driver-board-module-stepper-motor-smart/1872427142.html)
 * avr (на первом этапе и крайний случай arduino uno)
 * rf/nrf модули для связи с пультом управления (для первого этапа отладки)
 
 #### Пока отсутствует:
 * 2 энкодера (предположительно будут использованы щелевые энкодеры из мышей как самые доступные)
-* [драйвер двигателя](http://www.aliexpress.com/item/Free-shipping-1pcs-lot-Special-promotions-2pcs-lot-L298N-motor-driver-board-module-stepper-motor-smart/1872427142.html)
 * [9-осевой датчик](http://www.aliexpress.com/item/MPU-9250-GY-9250-9-axis-sensor-module-I2C-SPI-Communications-Thriaxis-gyroscope-triaxial-accelerometer-triaxial/1885410798.html)
 * роутер (с [CyberWrt](http://cyber-place.ru/showthread.php?t=720) на борту)
 * вебкамера

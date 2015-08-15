@@ -10,6 +10,7 @@
 * [драйвер двигателя](http://www.aliexpress.com/item/Free-shipping-1pcs-lot-Special-promotions-2pcs-lot-L298N-motor-driver-board-module-stepper-motor-smart/1872427142.html)
 * avr (на первом этапе и крайний случай arduino uno)
 * rf/nrf модули для связи с пультом управления (для первого этапа отладки)
+* [Bluetooth модуль HC-06](http://www.aliexpress.com/item/HC-06-HC06-LI-06-BT-BOARD-4pin-Bluetooth-serial-pass-through-wireless-serial-communication-module/1004377223.html)
 
 #### Пока отсутствует:
 * 2 энкодера (предположительно будут использованы щелевые энкодеры из мышей как самые доступные)

@@ -11,11 +11,11 @@
 * avr (на первом этапе и крайний случай arduino uno)
 * rf/nrf модули для связи с пультом управления (для первого этапа отладки)
 * [Bluetooth модуль HC-06](http://www.aliexpress.com/item/HC-06-HC06-LI-06-BT-BOARD-4pin-Bluetooth-serial-pass-through-wireless-serial-communication-module/1004377223.html)
+* роутер [TP-Link MR3020](http://robocraft.ru/blog/electronics/1053.html)
 
 #### Пока отсутствует:
 * 2 энкодера (предположительно будут использованы щелевые энкодеры из мышей как самые доступные)
 * [9-осевой датчик](http://www.aliexpress.com/item/MPU-9250-GY-9250-9-axis-sensor-module-I2C-SPI-Communications-Thriaxis-gyroscope-triaxial-accelerometer-triaxial/1885410798.html)
-* роутер (с [CyberWrt](http://cyber-place.ru/showthread.php?t=720) на борту)
 * вебкамера
 * 2 сервомотора для поворота камеры
 * [лазерный дальномер](http://roboforum.ru/forum10/topic12095.html)

@@ -1,6 +1,6 @@
 # Caretaker
 
-![ИИ-дизайн](images\01-design.jpg)
+![ИИ-дизайн](images/01-design.jpg)
 
 Caretaker - удаленно управляемый робот на базе esp32-cam икастомной 3д-печатной платформы.
 

@@ -18,7 +18,7 @@ Main features:
 
 The entire manufacturing process is described in detail in a series of blog posts - https://positroid.tech/en/post/caretaker-part-1.
 
-3D printing models - [models/](models) or project on [thingiverse](https://www.thingiverse.com/thing:) TODO link.
+3D printing models - [models/](models) or project on [thingiverse](https://www.thingiverse.com/thing:7004446).
 
 PCB schematics and drawings - [board/](board).
 

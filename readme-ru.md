@@ -18,7 +18,7 @@ Caretaker - удаленно управляемый робот на базе esp
 
 Весь процесс изготовления детально описывается в серии постов в блоге - https://positroid.tech/post/caretaker-part-1.
 
-Модели для печати - [models/](models) или проект на [thingiverse](https://www.thingiverse.com/thing:) TODO ссылка.
+Модели для печати - [models/](models) или проект на [thingiverse](https://www.thingiverse.com/thing:7004446).
 
 Схема и чертежи платы - [board/](board).
 

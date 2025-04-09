@@ -71,14 +71,14 @@ Caretaker - удаленно управляемый робот на базе esp
 
 ## Фото
 
-![Воплощение](images\03-real.jpg)
+![Воплощение](images/03-real.jpg)
 
-![Раскиданные внутренности](images\08-deep inside.jpg)
+![Раскиданные внутренности](images/deep%20inside.jpg)
 
-![Кастомная плата](images\09-custom-board.jpg)
+![Кастомная плата](images/custom-board.jpg)
 
-![Зарядка](images\10-charger.jpg)
+![Зарядка](images/charger.jpg)
 
 ## Видео
 
-TODO
+https://www.youtube.com/watch?v=m7IXScezX9o

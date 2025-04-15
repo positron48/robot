@@ -59,7 +59,7 @@ All other parts are made of plastic, printed on a printer (including tracks).
 
 ## Creation details
 
-Everything is described in maximum detail in [my blog](https://positroid.tech/post/caretaker-part-1). To summarize briefly (yes, I love lists):
+Everything is described in maximum detail in [my blog](https://positroid.tech/en/post/caretaker-part-1). To summarize briefly (yes, I love lists):
 
 * design drawn by AI (chatgpt prompting + local forge + flux txt2image);
 * wheels designed with internal motor placement on 2 bearings - fdm printing;

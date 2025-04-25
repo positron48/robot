@@ -12,6 +12,8 @@ Main features:
 * 2 control options - joystick and slider;
 * Adaptive web interface for control.
 
+Like the project? A ⭐ would mean a lot!
+
 ![Interface](images/02-interface.png)
 
 ## Links
